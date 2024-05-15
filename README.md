@@ -1,0 +1,2 @@
+# learning-techscore-java
+このリポジトリには、TECHSCORE内にあるJava言語のドキュメントを読み、学んだことをソースコードやドキュメントにして保存しています。
